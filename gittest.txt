@@ -1,2 +1,2 @@
 this is git test's file. HelloWorld
-the edtion is hot_fix.	
+the edtion is hot_fix.this is github edtion	
