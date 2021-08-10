@@ -1,2 +1,3 @@
 this is git test's file. HelloWorld
 the edtion is hot_fix.this is github edtion	
+the change has happened，please take care。
